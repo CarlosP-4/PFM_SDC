@@ -1,0 +1,37 @@
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de configuración de IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Archivos de logs
+*.log
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de datos sensibles
+*.env
+.env
+
+# Archivos de Excel y datos
+*.xlsx
+*.xls
+*.csv
+
+# Archivos de configuración local
+config_local.py
+
+# Archivos de salida
+*.pdf
