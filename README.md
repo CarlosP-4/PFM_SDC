@@ -64,7 +64,3 @@ mi_proyecto/
 - Visualización de estadísticas
 - Exportación a PDF
 - Filtrado avanzado de datos
-
-## Credenciales de Acceso
-- Usuario: admin
-- Contraseña: admin
